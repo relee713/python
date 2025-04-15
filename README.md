@@ -1,2 +1,2 @@
-# python
-Python Scripts and Projects
+# Python
+Mu Python Scripts and Projects!
